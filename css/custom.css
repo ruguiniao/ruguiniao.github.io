@@ -12,17 +12,17 @@
 }
 
 div#menus {
-  font-family: 'ZhuZiAYuanJWD';
+  font-family: /*'ZhuZiAYuanJWD'*/;
 }
 h1#site-title {
-  font-family: ZhuZiAYuanJWD;
+  font-family: /*ZhuZiAYuanJWD*/;
   font-size: 3em !important;
 }
 a.article-title,
 a.blog-slider__title,
 a.categoryBar-list-link,
 h1.post-title {
-  font-family: ZhuZiAYuanJWD;
+  font-family: /*ZhuZiAYuanJWD*/;
 }
 
 .iconfont {
@@ -302,7 +302,7 @@ button:not(:disabled) {
   padding: 0.5rem;
   text-align: center;
   font-size: 14px;
-  font-family: Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
+  font-family: /*Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif*/;
 }
 #error-wrap .error-content .error-info .error_title {
   margin-top: -4rem;
